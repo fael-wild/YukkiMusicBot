@@ -17,22 +17,22 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "8073603",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "b307090ebd480b62c47c038f722cd7ff",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "2033769589:AAEthfzExFOBgSGyVJsqY5XSEKI2v0hFPWk",
       "required": true
     },
     "DURATION_LIMIT_MIN": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "240",
       "required": true
     },
     "ASSISTANT_PREFIX": {
@@ -42,42 +42,42 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://fael001:paokkali@cluster0.0tsp4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "",
+      "value": "Wild Music",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support.",
-      "value": "",
+      "value": "https://t.me/syeindream",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support",
-      "value": "",
+      "value": "https://t.me/wildentourageni",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "1177830308",
       "required": true
     },
     "STRING_SESSION": {
       "description": "A Pyrogram String Session.",
-      "value": "",
+      "value": "BQCziZuhiWK0xPtfC-5r_IIKv9YlsVKiN4GBzLCoyvrzlkXa03LJVojhje1sYXzl5EnPci-nPpBxE1Ap_Pcq6T2mfhAgUtp1WojSQHzU4IW4k2ji335P3v6CnUxBc4SIvcSaE3cEfpkWXBbT0NVifnZmzvKukKzFCn8pMT9qMCTMa3YCv5wVfOzHXE2sLoMg18W5AqXlefaML-XVaoxcHPEKPUR4Er8FM-Is8v9sFRyWM8OI346vACxtVXOFhk3MN2pUtei6KBrsbcvy0BeKr7zDwvRBxGYdtDq73glCCFkg30ps20WW9HLUJP1uDPNdtmSo4OSf4WO8dt4QnqbG8tZPelODLwA",
       "required": true
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Channel ID, add your bot and promote as an admin with full rights!",
-      "value": "",
+      "value": "-1001278459272",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "1177830308",
       "required": true
     }
   },
